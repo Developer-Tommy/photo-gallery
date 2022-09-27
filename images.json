@@ -1,0 +1,41 @@
+{
+  "photos":
+  [
+    {
+      "id": "1",
+      "filename": "./images/pc.jpeg",
+      "title": "MacBook Air",
+      "description": "Autor: Tomáš Knapčok, OS: Apple"
+    },
+    {
+      "id": "2",
+      "filename": "./images/river.jpeg",
+      "title": "Rieka Amazonka",
+      "description": "Autor: Tomáš Knapčok, Dĺžka: 6436km"
+    },
+    {
+      "id": "3",
+      "filename": "./images/forest.jpeg",
+      "title": "TANAP",
+      "description": "Autor: Tomáš Knapčok, Miesto: Tatry"
+    },
+    {
+      "id": "4",
+      "filename": "./images/waterfall.jpeg",
+      "title": "Niagárske vodopády",
+      "description": "Autor: Tomáš Knapčok, Miesto: USA"
+    },
+    {
+      "id": "5",
+      "filename": "./images/castle.jpeg",
+      "title": "Bojnický zámok",
+      "description": "Autor: Tomáš Knapčok, Miesto: Slovesko"
+    },
+    {
+      "id": "6",
+      "filename": "./images/dog.jpeg",
+      "title": "Pug pes",
+      "description": "Autor: Tomáš Knapčok, Meno: Rocco"
+    }
+  ]
+}
